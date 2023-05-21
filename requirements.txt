@@ -1,0 +1,14 @@
+aiosqlite
+git+https://github.com/cop-discord/button_paginator.git
+discord
+datetime
+humanfriendly
+typing
+aiohttp
+asyncio
+ordinal
+jishaku
+arrow
+psutil
+
+uwuipy
